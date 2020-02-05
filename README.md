@@ -1,4 +1,4 @@
-# Redis-Native-Pipeline
+# Redis-Native-Pipeline | Bulk reads/writes
 
 # References
 * https://stackoverflow.com/questions/7929885/how-do-redis-clients-implement-pipelining
